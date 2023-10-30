@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/AhmedA007/SudokuSolver">
-    <img src="source\Sudoku_Puzzle.png"" alt="Logo" width="80" height="80">
+    <img src="source\Sudoku_Puzzle.png"" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">TSudoku Solver</h3>
@@ -67,15 +67,15 @@ The repository is organized as follows for better readability and maintainabilit
 
 Here is the example Sudoku puzzle provided in the code:
 
-5 3 0 0 7 0 0 0 0
-6 0 0 1 9 5 0 0 0
-0 9 8 0 0 0 0 6 0
-8 0 0 0 6 0 0 0 3
-4 0 0 8 0 3 0 0 1
-7 0 0 0 2 0 0 0 6
-0 6 0 0 0 0 2 8 0
-0 0 0 4 1 9 0 0 5
-0 0 0 0 8 0 0 7 9
+5 3 0 0 7 0 0 0 0 <br>
+6 0 0 1 9 5 0 0 0 <br>
+0 9 8 0 0 0 0 6 0 <br>
+8 0 0 0 6 0 0 0 3 <br>
+4 0 0 8 0 3 0 0 1 <br>
+7 0 0 0 2 0 0 0 6 <br>
+0 6 0 0 0 0 2 8 0 <br>
+0 0 0 4 1 9 0 0 5 <br>
+0 0 0 0 8 0 0 7 9 <br>
 
 
 ## Authors
